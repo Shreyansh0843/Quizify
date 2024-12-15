@@ -48,7 +48,7 @@ CORS enabled
 
 📦 Installation
 1. Clone the repository
-   ```bash
+```bash
 git clone https://github.com/yourusername/quiz-master.git
 cd quiz-master
 2. Install backend dependencies
